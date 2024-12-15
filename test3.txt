@@ -1,4 +1,1 @@
-{
-    "encoding": "base64",
-    "content": "VGhpcyBpcyB0ZXN0IGZpbGUgMw=="
-}
+{"encoding": "base64", "content": "VGhpcyBpcyB0ZXN0IGZpbGUgMw=="}
